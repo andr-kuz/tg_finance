@@ -1,0 +1,17 @@
+**/*.txt
+**/*.beancount
+**/*.json
+.DS_Store
+**/*.jpeg
+**/*.jpg
+__pycache__/
+*.model_filename
+combicode.txt
+**/*.session
+**/*.session-journal
+**/*.db
+**/*.db-journal
+.env
+.venv
+combicode.txt
+entity_examples/
